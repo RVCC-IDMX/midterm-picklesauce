@@ -6,7 +6,7 @@ header, nav, main, aside, footer {
     margin-bottom: 16px;
     padding: 1.25rem;
     border: 4px solid rgb(136,102,68);
-    box-shadow: inset 10px 10px 7px rgba(0, 0, 0, 0.6)
+    box-shadow: inset 10px 10px 7px rgba(0, 0, 0, 0.6);
 }
 
 header {
