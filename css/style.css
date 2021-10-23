@@ -1,2 +1,21 @@
 /* Journey to the Center of the Earth Practicum */
 /* Michael Bernstein */
+
+/* Main Structural Elements */
+header, nav, main, aside, footer {
+    margin-bottom: 16px;
+    padding: 1.25rem;
+    border: 4px solid rgb(136,102,68);
+    box-shadow: inset 10px 10px 7px rgba(0, 0, 0, 0.6)
+}
+
+header {
+    border-top-right-radius: 0.5em;
+    border-top-left-radius: 0.5em;
+}
+
+footer {
+    border-bottom-right-radius: 0.5em;
+    border-bottom-left-radius: 0.5em;
+    margin-bottom: 8px;
+}
